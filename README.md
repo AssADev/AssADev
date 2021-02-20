@@ -5,7 +5,7 @@
         With the desire to be creative in all of my projects
         <img src="img/Green_Transition.png">
         <div>
-            Languages 🦉 <br>
+            <h3>Languages 🦉</h3>
             <img src="https://img.shields.io/badge/-HTML5-262626?style=for-the-badge&logo=html5">
             <img src="https://img.shields.io/badge/-CSS3-262626?style=for-the-badge&logo=css3">
             <img src="https://img.shields.io/badge/-JavaScript-262626?style=for-the-badge&logo=javascript">
