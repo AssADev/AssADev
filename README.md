@@ -23,7 +23,7 @@
                 <a href="https://github.com/locomotivemtl/locomotive-scroll">Locomotive Scroll</a>
             </p>
         </div>
-        <hr style="width: 80%; height: 1px; background: linear-gradient(90deg, #B400FF, #A000FF); border: none;">
+        <hr style="width: 80%; height: 5px; background: linear-gradient(90deg, #B400FF, #A000FF); border: none;">
         <p>
             – <em>Creativity is intelligence having fun</em> –<br>
             A. Einstein
