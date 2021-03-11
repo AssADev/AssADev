@@ -8,6 +8,7 @@
             <h3>Languages 🦉</h3>
             <img src="https://img.shields.io/badge/-HTML5-262626?style=for-the-badge&logo=html5">
             <img src="https://img.shields.io/badge/-CSS3-262626?style=for-the-badge&logo=css3">
+            <img src="https://img.shields.io/badge/-SASS-262626?style=for-the-badge&logo=sass">
             <img src="https://img.shields.io/badge/-JavaScript-262626?style=for-the-badge&logo=javascript">
             <img src="https://img.shields.io/badge/-Python-262626?style=for-the-badge&logo=Python">
         </div>
