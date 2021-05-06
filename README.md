@@ -11,6 +11,7 @@
             <img src="https://img.shields.io/badge/-SASS-262626?style=for-the-badge&logo=sass">
             <img src="https://img.shields.io/badge/-JavaScript-262626?style=for-the-badge&logo=javascript">
             <img src="https://img.shields.io/badge/-Python-262626?style=for-the-badge&logo=Python">
+            <img src="https://img.shields.io/badge/-PHP-262626?style=for-the-badge&logo=PHP">
         </div>
         <div>
             <h3>Focusing 🚀</h3>
