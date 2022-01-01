@@ -15,10 +15,12 @@
         </div>
         <div>
             <h3>Focusing 🚀</h3>
-            Javascript Animations with some libraries <br>
+            Javascript Frameworks :
+            <a href="https://reactjs.org/">React</a> ● 
+            <a href="https://vuejs.org/">Vue</a></br>
+            Javascript Animations :
             <a href="https://animejs.com/">Anime.js</a> ● 
             <a href="https://greensock.com/">GSAP</a> ●
-            <a href="https://barba.js.org/">Barba.js</a> ●
             <a href="https://github.com/locomotivemtl/locomotive-scroll">Locomotive Scroll</a>
         </div>
         <img src="img/Purple_Transition.png">
