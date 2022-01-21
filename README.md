@@ -21,7 +21,10 @@
             Javascript Animations :
             <a href="https://animejs.com/">Anime.js</a> ● 
             <a href="https://greensock.com/">GSAP</a> ●
-            <a href="https://github.com/locomotivemtl/locomotive-scroll">Locomotive Scroll</a>
+            <a href="https://barba.js.org/">Barba.js</a> ●
+            <a href="https://github.com/locomotivemtl/locomotive-scroll">Locomotive Scroll</a></br>
+            Javascript 3D library :
+            <a href="https://threejs.org/">Three.js</a> ● 
         </div>
         <img src="img/Purple_Transition.png">
         – <em>Creativity is intelligence having fun</em> –<br>
