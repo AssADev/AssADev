@@ -10,6 +10,7 @@
             <img src="https://img.shields.io/badge/-CSS3-262626?style=for-the-badge&logo=css3">
             <img src="https://img.shields.io/badge/-SASS-262626?style=for-the-badge&logo=sass">
             <img src="https://img.shields.io/badge/-JavaScript-262626?style=for-the-badge&logo=javascript">
+            <img src="https://img.shields.io/badge/-React-262626?style=for-the-badge&logo=react">
             <img src="https://img.shields.io/badge/-PHP-262626?style=for-the-badge&logo=PHP">
             <img src="https://img.shields.io/badge/-Python-262626?style=for-the-badge&logo=Python">
         </div>
@@ -21,7 +22,6 @@
             Javascript Animations :
             <a href="https://animejs.com/">Anime.js</a> ● 
             <a href="https://greensock.com/">GSAP</a> ●
-            <a href="https://barba.js.org/">Barba.js</a> ●
             <a href="https://github.com/locomotivemtl/locomotive-scroll">Locomotive Scroll</a></br>
             Javascript 3D library :
             <a href="https://threejs.org/">Three.js</a>
